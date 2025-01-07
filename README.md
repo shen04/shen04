@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shen04
-- 👀 I’m interested in ... DFIR / Security / SecOps / Azure Sentinel
-- 🌱 I’m currently learning ... SC300
+- 👀 I’m interested in ... Blue Teaming / SecOps / Azure Sentinel
+- 🌱 I’m currently learning ... Red Teaming via HTB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
